@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/fatmaSaad25/strategia.site.git/static/css/main.d985159c.css",
-    "main.js": "/fatmaSaad25/strategia.site.git/static/js/main.6e8058b3.js",
-    "static/js/453.3f5bda53.chunk.js": "/fatmaSaad25/strategia.site.git/static/js/453.3f5bda53.chunk.js",
-    "static/media/logo strategia.png": "/fatmaSaad25/strategia.site.git/static/media/logo strategia.48d498a2fad9fd68453f.png",
-    "static/media/fa-solid-900.ttf": "/fatmaSaad25/strategia.site.git/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/fatmaSaad25/strategia.site.git/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/fatmaSaad25/strategia.site.git/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/fatmaSaad25/strategia.site.git/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/herosection.jpg": "/fatmaSaad25/strategia.site.git/static/media/herosection.babcd6db2bff6ae0c3d6.jpg",
-    "static/media/fa-regular-400.ttf": "/fatmaSaad25/strategia.site.git/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/fatmaSaad25/strategia.site.git/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/fatmaSaad25/strategia.site.git/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/fatmaSaad25/strategia.site.git/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/fatmaSaad25/strategia.site.git/index.html",
-    "main.d985159c.css.map": "/fatmaSaad25/strategia.site.git/static/css/main.d985159c.css.map",
-    "main.6e8058b3.js.map": "/fatmaSaad25/strategia.site.git/static/js/main.6e8058b3.js.map",
-    "453.3f5bda53.chunk.js.map": "/fatmaSaad25/strategia.site.git/static/js/453.3f5bda53.chunk.js.map"
+    "main.css": "/https://fatmaSaad25.github.io/strategia.site/static/css/main.ee5b2591.css",
+    "main.js": "/https://fatmaSaad25.github.io/strategia.site/static/js/main.380e4127.js",
+    "static/js/453.3f5bda53.chunk.js": "/https://fatmaSaad25.github.io/strategia.site/static/js/453.3f5bda53.chunk.js",
+    "static/media/logo strategia.png": "/https://fatmaSaad25.github.io/strategia.site/static/media/logo strategia.48d498a2fad9fd68453f.png",
+    "static/media/fa-solid-900.ttf": "/https://fatmaSaad25.github.io/strategia.site/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/https://fatmaSaad25.github.io/strategia.site/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/https://fatmaSaad25.github.io/strategia.site/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/https://fatmaSaad25.github.io/strategia.site/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/herosection.jpg": "/https://fatmaSaad25.github.io/strategia.site/static/media/herosection.babcd6db2bff6ae0c3d6.jpg",
+    "static/media/fa-regular-400.ttf": "/https://fatmaSaad25.github.io/strategia.site/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/https://fatmaSaad25.github.io/strategia.site/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/https://fatmaSaad25.github.io/strategia.site/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/https://fatmaSaad25.github.io/strategia.site/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/https://fatmaSaad25.github.io/strategia.site/index.html",
+    "main.ee5b2591.css.map": "/https://fatmaSaad25.github.io/strategia.site/static/css/main.ee5b2591.css.map",
+    "main.380e4127.js.map": "/https://fatmaSaad25.github.io/strategia.site/static/js/main.380e4127.js.map",
+    "453.3f5bda53.chunk.js.map": "/https://fatmaSaad25.github.io/strategia.site/static/js/453.3f5bda53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d985159c.css",
-    "static/js/main.6e8058b3.js"
+    "static/css/main.ee5b2591.css",
+    "static/js/main.380e4127.js"
   ]
 }

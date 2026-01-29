@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.658);
+}
+nav img{
+    width: 100px;
+    height:80px;
+    margin-left: 55px;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+ul li .textList{
+    font-size:20px;
+    color: black;
+}
+ul li .textList:hover{
+    color:#2563EB
+}
+.btnBook{
+    background-color: #2563EB;
+    color: #fff;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 0 40px;
+    transition: all .5s ease;
+    margin-top: 20px;
+}
+.btnBook:hover{
+     background-color:#1E40AF;
+}
+
+
+
+
+
+
+

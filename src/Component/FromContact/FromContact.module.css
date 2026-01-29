@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.contact{
+    padding: 40px 60px;
+    margin-top: 50px 60px;
+}
+.textForm{
+    text-align: center;
+}
+.contacth3{
+    font-size: 40px;
+    font-weight: 500;    
+}
+.form{
+    width: 65%;
+    padding: 30px 50px;
+    margin: 40px auto;
+    border: 1px solid rgba(128, 128, 128, 0.096);
+    box-shadow: 1px 1px 4px rgba(105, 105, 105, 0.13);
+    border-radius: 10px;
+}
+.formGroup input{
+    width: 100%;
+    height: 50px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid rgb(139, 136, 136);
+}
+input::placeholder{
+   padding-left: 30px;
+   color: rgba(128, 128, 128, 0.61);
+}
+.formGroup label {
+ font-weight: 500;
+ font-size: 16px;
+}
+select{
+    width: 100%;
+    height: 50px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid rgb(139, 136, 136);
+}
+.btnSubmit{
+    width: 100%;
+    height: 60px;
+    background-color: #2563EB;
+    color: #fff;
+    border: 0;
+    border-radius:9px;
+    margin: 30px 0;
+    transition: all .3s ease;
+}
+.btnSubmit:hover{
+    background-color:rgb(3, 77, 3);
+}
+.happensNext{
+    padding: 50px 60px;
+    margin: 50px auto;
+    background-color: #EFF6FF;
+    width: 60%;
+    border-radius: 13px;
+}
+.happensNext h4{
+    text-align: center;
+    line-height: 3;
+}
+.card1 span{
+    padding: 10px 15px;
+    background-color:#DBEAFE;
+    color: #2563EB;
+    border-radius: 3rem;
+    margin: 40px 60px;
+    line-height: 4;
+}
+.card1 P{
+    color:#4b5563;
+    margin: 3px 5px;
+}
+:global(.swal2-icon.custom-success-icon) {
+  background-color:#fff  !important; 
+  color: #10B981 !important;              
+  border: 2px solid rgba(128, 128, 128, 0.26) !important;
+}
+@media screen and (max-width:992px){
+.happensNext{
+    padding: 50px 20px;
+}
+.card1 span{
+    padding: 10px 15px;
+    background-color:#DBEAFE;
+    color: #2563EB;
+    border-radius: 3rem;
+    margin: 40px 10px;
+    line-height: 4;
+}
+.card1 P{
+    margin: 3px 0;
+ 
+}
+}
+@media screen and (max-width:600px){
+   .form{
+    width: 90%;
+}
+.btnSubmit{
+    height: 50px;
+}
+}
+@media screen and (max-width:400px){
+    .contact{
+    padding: 40px 20px;
+}
+    .form{
+    width: 100%;
+}
+.btnSubmit{
+    height: 50px;
+}
+.formGroup input{
+    width: 100%;
+    height: 47px;
+}
+select{
+    width: 100%;
+    height: 47px;
+}
+.happensNext h4{
+    text-align: center;
+    line-height: 3;
+    font-size: 18px;
+}
+}
